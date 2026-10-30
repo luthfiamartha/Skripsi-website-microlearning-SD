@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" font-family="Arial, sans-serif">
+  <rect width="400" height="220" fill="#EFF6FF"/>
+  <text x="200" y="35" text-anchor="middle" font-size="16" font-weight="bold" fill="#0F766E">Air dan Kegunaannya</text>
+  <path d="M170 55 c-25 35 -40 55 -40 78 a40 40 0 0 0 80 0 c0 -23 -15 -43 -40 -78 z" fill="#38BDF8"/>
+  <ellipse cx="170" cy="140" rx="22" ry="16" fill="#BAE6FD" opacity="0.7"/>
+  <path d="M255 70 h70 l-8 110 a14 14 0 0 1 -14 13 h-26 a14 14 0 0 1 -14 -13 z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="3"/>
+  <rect x="261" y="120" width="58" height="66" fill="#38BDF8" opacity="0.75"/>
+  <text x="170" y="205" text-anchor="middle" font-size="12" fill="#1F2937">Tetesan air</text>
+  <text x="290" y="205" text-anchor="middle" font-size="12" fill="#1F2937">Air minum</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" font-family="Arial, sans-serif">
+  <rect width="400" height="220" fill="#F0F9FF"/>
+  <text x="200" y="35" text-anchor="middle" font-size="16" font-weight="bold" fill="#0F766E">Bagian Tubuh Hewan</text>
+  <rect x="30" y="120" width="340" height="70" rx="12" fill="#38BDF8" opacity="0.5"/>
+  <ellipse cx="130" cy="150" rx="55" ry="28" fill="#0EA5E9"/>
+  <path d="M185 150 l30 -18 v36 z" fill="#0EA5E9"/>
+  <circle cx="105" cy="142" r="5" fill="#FFFFFF"/>
+  <path d="M130 122 l14 -16 l6 18 z" fill="#0284C7"/>
+  <ellipse cx="300" cy="150" rx="45" ry="35" fill="#16A34A"/>
+  <circle cx="300" cy="105" r="22" fill="#16A34A"/>
+  <circle cx="293" cy="100" r="4" fill="#FFFFFF"/>
+  <path d="M270 175 l-14 20 M330 175 l14 20" stroke="#15803D" stroke-width="7" stroke-linecap="round"/>
+  <text x="130" y="205" text-anchor="middle" font-size="12" fill="#1F2937">Ikan</text>
+  <text x="300" y="205" text-anchor="middle" font-size="12" fill="#1F2937">Katak</text>
+</svg>

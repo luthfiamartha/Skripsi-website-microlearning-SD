@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" font-family="Arial, sans-serif">
+  <rect width="400" height="220" fill="#F0FDF4"/>
+  <text x="200" y="35" text-anchor="middle" font-size="16" font-weight="bold" fill="#0F766E">Bagian Tumbuhan</text>
+  <rect x="0" y="150" width="400" height="70" fill="#A16207" opacity="0.35"/>
+  <rect x="194" y="90" width="12" height="70" fill="#92400E"/>
+  <path d="M200 160 l-35 40 M200 160 l35 40 M200 160 l-15 45 M200 160 l15 45" stroke="#92400E" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="150" cy="75" r="35" fill="#16A34A"/>
+  <circle cx="250" cy="75" r="35" fill="#16A34A"/>
+  <circle cx="200" cy="55" r="38" fill="#22C55E"/>
+  <circle cx="255" cy="50" r="12" fill="#DC2626"/>
+  <text x="105" y="125" font-size="12" fill="#1F2937">Daun</text>
+  <text x="255" y="205" font-size="12" fill="#1F2937">Akar</text>
+  <text x="275" y="45" font-size="12" fill="#1F2937">Buah</text>
+</svg>
